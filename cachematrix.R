@@ -31,3 +31,4 @@ cacheSolve <- function(x, ...) {
   x$setInverse(j)
   j
 }
+40 character SHA-1 hash
